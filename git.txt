@@ -1,0 +1,5 @@
+git init 初始化git仓库
+git add filename 将文件移至暂存库
+git commit -m "描述信息" 将文件移至版本库
+git status 查看状态
+git diff 查看工作区中修改的内容
